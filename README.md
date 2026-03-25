@@ -41,13 +41,13 @@ To evaluate campaign performance, the insights focused on the following key metr
 **Key Insight:** Despite overall cost efficient performance, Golden Years Security's CPC is nearly 9x the average with weak engagement, reallocating its budget toward #HealthyLiving offers the most scalable path to expanding reach cost effectively.
 
 
-- Row Health ran 11 campaigns generating **9 million** impressions at an average CTR of **9.39%** and CPC of **$0.07** suggesting overall campaigns were cost efficient and reasonably engaging. However performance varied significantly across campaigns. 
+- Row Health ran 11 campaigns generating **9 million** impressions at an average CTR of **9.39%** and CPC of **$0.07** suggesting campaigns were cost efficient and reasonably engaging. However performance varied significantly across campaigns. 
 
 - Tailored Health Plans and #HealthyLiving drove the highest reach at **1.39M and 1.37M** impressions respectively, but both performed near average on CTR, suggesting broad but unremarkable engagement. Health For All achieved the highest CTR at **25%** despite the lowest impressions, indicating strong creative resonance with a narrow audience. 
 
 - On the other end, Golden Years Security significantly underperformed with the highest CPC at **$0.68**, nearly 9x the average, combined with low impressions and below average CTR, suggesting poor cost efficiency and weak audience fit. 
 
-- Row Health should consider reallocating Golden Years Security budget toward campaigns that balance strong engagement and cost efficiency. Reallocating its budget toward #HealthyLiving, which combines one of the highest proven reach at 1.37M impressions with a below average CPC, offers the most cost effective path to expanding audience without sacrificing efficiency.
+- Row Health should consider reallocating Golden Years Security budget towards #HealthyLiving due to its balance of strong engagement and cost efficiency. #HealthyLiving combines one of the highest proven reach at 1.37M impressions with a below average CPC which offers the most cost effective path to expanding audience without sacrificing efficiency.
 
 
 
