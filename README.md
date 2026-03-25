@@ -47,7 +47,7 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 - On the other end, Golden Years Security significantly underperformed with the highest CPC at **$0.68**, nearly 9x the average, combined with low impressions and below average CTR, suggesting poor cost efficiency and weak audience fit. 
 
-- Row Health should consider reallocating Golden Years Security budget toward campaigns that balance strong engagement and cost efficiency. Reallocating its budget toward #HealthyLiving, which combines the highest proven reach at 1.37M impressions with a below average CPC, offers the most cost effective path to expanding audience without sacrificing efficiency.
+- Row Health should consider reallocating Golden Years Security budget toward campaigns that balance strong engagement and cost efficiency. Reallocating its budget toward #HealthyLiving, which combines one of the highest proven reach at 1.37M impressions with a below average CPC, offers the most cost effective path to expanding audience without sacrificing efficiency.
 
 
 
