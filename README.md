@@ -38,11 +38,15 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 *The following sections diagnose each performance dimension in detail and close with prioritized recommendations.*
 
-- Across all campaigns, we generated 9 million impressions with #HealthyLiving and Tailored Health Plans driving the highest volume. 
+- Row Health ran 11 campaigns generating **9 million** impressions at an average CTR of **9.39%** and CPC of **$0.07** suggesting overall campaigns were cost efficient and reasonably engaging. However performance varied significantly across campaigns. 
 
-- High impressions didn't always mean high engagement. Health For All had only 170K impressions but a 25% CTR meaning it was the most compelling ad despite low reach
+- Tailored Health Plans and #HealthyLiving drove the highest reach at **1.39M and 1.37M** impressions respectively, but both performed near average on CTR, suggesting broad but unremarkable engagement. Health For All achieved the highest CTR at **25%** despite the lowest impressions, indicating strong creative resonance with a narrow audience. 
 
-- Most campaigns maintained a low CPC under $0.11, meaning we paid very little per click. Golden Years Security however had a $0.68 CPC the highest spend per click with very low impressions and CTR, suggesting poor ROI.
+- On the other end, Golden Years Security significantly underperformed with the highest CPC at **$0.68**, nearly 9x the average, combined with low impressions and below average CTR, suggesting poor cost efficiency and weak audience fit. 
+
+- Row Health should consider reallocating Golden Years Security budget toward campaigns that balance strong engagement and cost efficiency.
+
+
 
 ## Signup Insights
 
