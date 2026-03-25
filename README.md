@@ -27,11 +27,11 @@ The dataset consisted of three tables, including information about campaigns, si
 
 To evaluate campaign performance, the insights focused on the following key metrics:
 
-- Impressions:
-- Cost per Click (CPC):
-- Signup Rate:
-- Cost per Signup:
-- Click through Rate (CTR): 
+- Impressions: The number of people who saw a marketing campaign.
+- Cost per Click (CPC): The amount an advertiser pays each time a user clicks on their advertisement
+- Signup Rate: The percent of people who see a campaign and subsequently sign up for a Row Health plan
+- Cost per Signup: The average dollars spent in order to acquire a signup from each campaign.
+- Click through Rate (CTR): The percent of people who see a campaign and click on the associated link. 
 
 
 ## Marketing Insights
