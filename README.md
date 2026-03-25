@@ -1,2 +1,39 @@
-# RowHealth
-Analyzing 4 years of medical insurance data to diagnose a 
+# RowHealth Performance Report
+
+
+> Analyzing 4 years of Row Health medical insurance data to diagnose and surface actionable growth levers using a dynamic visual deliverable.
+
+
+
+## Company Background 
+
+Founded in 2016, Row Health is a medical insurance company serving thousands of customers throughout the United States. In 2019, they launched a new set of marketing campaign categories spanning topics like wellness tips, the affordability of their plans, and preventative care. Their customers can sign up for 4 different plans - bronze, silver, gold, and platinum - each with different premiums and claim coverage rates. 
+
+Now that they’ve hired a new data team and are strategizing their marketing budget for the year, the company would like to build more understanding of the effectiveness of these campaign categories and how they relate to signups and subsequent patient claims. As a analyst contracting with Row Health, this analysis will be hinged on providing a dynamic visual deliverable to enable the marketing team to self-serve insights and regular-cadence reporting. The budget is allocated to drive two primary objectives: 1) to increase the number of customer signups, and 2) to raise awareness of Row Health’s brand across the country.
+
+
+## Dataset Structure
+
+The dataset consisted of three tables, including information about campaigns, signups and user demographics, as well as claims filed by customers and related claim information.
+
+
+<img width="647" height="448" alt="image" src="https://github.com/user-attachments/assets/68ea0a6b-9941-432d-a926-97fb5ef2bd27" />
+
+
+## Insights Summary
+
+
+## North Star Metrics 
+
+To evaluate campaign performance, the insights focused on the following key metrics:
+
+- Impressions:
+- Cost per Click (CPC):
+- Signup Rate:
+- Cost per Signup:
+- Click through Rate (CTR): 
+
+
+## Marketing Insights
+
+*The following sections diagnose each performance dimension in detail and close with prioritized recommendations.*
