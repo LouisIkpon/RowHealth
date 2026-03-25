@@ -22,6 +22,8 @@ The dataset consisted of three tables, including information about campaigns, si
 
 ## Insights Summary
 
+*The following sections diagnose each performance dimension in detail and close with prioritized recommendations.*
+
 
 ## North Star Metrics 
 
@@ -35,8 +37,6 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 
 ## Marketing Insights
-
-*The following sections diagnose each performance dimension in detail and close with prioritized recommendations.*
 
 - Row Health ran 11 campaigns generating **9 million** impressions at an average CTR of **9.39%** and CPC of **$0.07** suggesting overall campaigns were cost efficient and reasonably engaging. However performance varied significantly across campaigns. 
 
