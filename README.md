@@ -40,7 +40,7 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 - Across all campaigns, we generated 9 million impressions with #HealthyLiving and Tailored Health Plans driving the highest volume. 
 
-- High impressions didn't always mean high engagement. Health For All had only 170K impressions but a 25% CTR — meaning it was the most compelling ad despite low reach
+- High impressions didn't always mean high engagement. Health For All had only 170K impressions but a 25% CTR meaning it was the most compelling ad despite low reach
 
 - Most campaigns maintained a low CPC under $0.11, meaning we paid very little per click. Golden Years Security however had a $0.68 CPC the highest spend per click with very low impressions and CTR, suggesting poor ROI.
 
