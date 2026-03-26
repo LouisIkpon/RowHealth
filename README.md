@@ -55,7 +55,7 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 **Key Insight:** Signup performance was heavily concentrated among a few campaigns, with Health For All and #HealthyLiving consistently outperforming across conversion and cost efficiency while a steady post-pandemic decline in signups since late 2020 signals an urgent need to reallocate budget away from the six underperforming campaigns and toward proven high converting campaigns before the trend worsens.
 
--From 2019–2023 Row Health generated 16,338 total signups at an average signup rate of 0.18% and cost per signup of $3.70. While cost efficiency was reasonable overall, the low average signup rate indicates most campaigns struggled to convert impressions into actual customers.
+- From 2019–2023 Row Health generated 16,338 total signups at an average signup rate of 0.18% and cost per signup of $3.70. While cost efficiency was reasonable overall, the low average signup rate indicates most campaigns struggled to convert impressions into actual customers.
 
 - Signup activity spiked sharply in early 2020 across all campaigns, most notably among the top performers, likely driven by pandemic related demand for health coverage. Since late 2020 signups have steadily declined across all campaigns — returning to and falling below pre-pandemic levels — signaling an urgent need to reinvest in high converting campaigns before the trend worsens.
   
