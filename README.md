@@ -48,21 +48,20 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 
 
-## Signup Insights
+## High Performers
 
-**Key Insight:** Signup performance was heavily concentrated among a few campaigns, with Health For All and #HealthyLiving consistently outperforming across conversion and cost efficiency while a steady post-pandemic decline in signups since late 2020 signals an urgent need to reallocate budget away from the six underperforming campaigns and toward proven high converting campaigns before the trend worsens.
-
-- From 2019–2023 Row Health generated **16,338** total signups at an average signup rate of **0.18%** and cost per signup of **$3.70**. While cost efficiency was reasonable overall, the low average signup rate indicates most campaigns struggled to convert impressions into actual customers.
-
-- Signup activity spiked sharply in early 2020 across all campaigns, most notably among the top performers, likely driven by pandemic related demand for health coverage. Since late 2020 signups have steadily declined across all campaigns, returning to and falling below pre-pandemic levels, signaling an urgent need to reinvest in high converting campaigns before the trend worsens.
+- Tailored Health Plans demonstrated the most balanced profile across all three sections. With the highest reach at **1.39M impressions**, average CTR and signup conversion, a below average cost per signup of **$4.70**, and the lowest average claim amount of **$209** among the top performers, this campaign delivered consistent and controlled performance at every stage of the funnel.
   
-- Health For All stands out as the single most effective campaign in the entire portfolio. Despite having the lowest impressions in marketing, it generated the highest signup count at **3,545** and a signup rate of **2.08%**, 12x the overall average. At **$1.20** per signup it is also the second most cost efficient campaign. This combination of high conversion and low cost makes it the strongest case for increased investment and expanded reach.
+- This consistency across marketing, signup, and claim metrics makes it the most defensible investment recommendation in the entire portfolio.
+Health For All and #HealthyLiving round out the top performers as the two most effective conversion campaigns in the portfolio.
 
-- #HealthyLiving reinforces the marketing recommendation **3,727** total signups, a **0.27%** signup rate, and **$1.80** cost per signup confirms it delivers consistent performance across both reach and conversion, making it the most well rounded campaign in the portfolio.
+- Health For All achieved the highest CTR at **25%** despite the lowest impressions, then converted that engagement into the highest signup count at **3,545** and a signup rate of **2.08%** 12x the overall average at just **$1.20** per signup, the second most cost efficient campaign in the portfolio.
 
-- On the other end, 6 of 11 campaigns collectively failed to generate meaningful signup volume, combining for fewer than **700** total signups at a median cost per signup of **$34.70**, nearly **9x the average**. These campaigns are consuming budget without producing customers.
+- #HealthyLiving combined strong reach at **1.37M** impressions with **3,727** total signups, a **0.27%** signup rate, and $1.80 cost per signup, confirming consistent performance across both reach and conversion.
 
-- Golden Years Security was the worst performer across both marketing and signup metrics, the lowest signup count, a cost per signup of **$176.70** nearly **7x the average**, and consistently weak engagement at every stage of the funnel. There is no metric that justifies continued investment at current budget levels.
+- Both campaigns carry the second and third highest total claim amounts respectively, however their average claim amounts of **$231** and **$244** remain close to the portfolio average, suggesting their high signup volume does not come with disproportionate claim risk. 
+
+- Together these three campaigns represent the strongest cases for continued and expanded investment
 
 
 
