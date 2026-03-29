@@ -50,10 +50,11 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 ## High Performers
 
-- Tailored Health Plans demonstrated the most balanced profile across all three sections. With the highest reach at **1.39M impressions**, average CTR and signup conversion, a below average cost per signup of **$4.70**, and the lowest average claim amount of **$209** among the top performers, this campaign delivered consistent and controlled performance at every stage of the funnel.
+- Tailored Health Plans demonstrated the most balanced profile across all three sections with consistency across marketing, signup, and claim metrics making it the most defensible investment recommendation.
+
+- With the highest reach at **1.39M impressions**, average CTR and signup conversion, a below average cost per signup of **$4.70**, and the lowest average claim amount of **$209** among the top performers, this campaign delivered consistent and controlled performance at every stage of the funnel. 
   
-- This consistency across marketing, signup, and claim metrics makes it the most defensible investment recommendation in the entire portfolio.
-Health For All and #HealthyLiving round out the top performers as the two most effective conversion campaigns in the portfolio.
+- Health For All and #HealthyLiving round out the top performers as the two most effective conversion campaigns in the portfolio.
 
 - Health For All achieved the highest CTR at **25%** despite the lowest impressions, then converted that engagement into the highest signup count at **3,545** and a signup rate of **2.08%** 12x the overall average at just **$1.20** per signup, the second most cost efficient campaign in the portfolio.
 
@@ -61,7 +62,7 @@ Health For All and #HealthyLiving round out the top performers as the two most e
 
 - Both campaigns carry the second and third highest total claim amounts respectively, however their average claim amounts of **$231** and **$244** remain close to the portfolio average, suggesting their high signup volume does not come with disproportionate claim risk. 
 
-- Together these three campaigns represent the strongest cases for continued and expanded investment
+- Together these three campaigns represent the strongest cases for continued and expanded investment.
 
 
 
