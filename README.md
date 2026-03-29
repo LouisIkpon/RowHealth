@@ -73,6 +73,20 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 ## Claim Insights
 
+**Key Insight:** While high performing signup campaigns naturally drove the highest claim volumes, Compare Health Coverage presents the most significant profitability concern, generating the highest total and average claim amounts despite only average signup conversion, suggesting it attracts high utilization customers that may cost Row Health more than they generate in value.
+
+- From 2019–2023 Row Health processed **$13.4 million** in total claims at an average claim amount of **$267**. Claim volume was heavily concentrated among the top 4 campaigns, Compare Health Coverage, Health For All, #HealthyLiving, and #CoverageMatters which together accounted for the majority of total claims, directly mirroring their dominance in signup volume.
+
+- Claim amounts were relatively flat from 2019 through early 2021, then rose sharply beginning in Q2 2021 among the top performers, likely reflecting delayed post-pandemic healthcare utilization as people resumed elective and routine care. Since late 2023 claim amounts have steadily declined, suggesting utilization is normalizing.
+
+- Compare Health Coverage stands out as the most concerning campaign from a profitability standpoint it carries the highest average claim amount at **$410**, which is 54% above the portfolio average of **$267**, despite only average signup conversion. This suggests the campaign may be disproportionately attracting high utilization customers.
+
+- Health For All and #HealthyLiving — the two campaigns recommended for increased investment — carry the second and third highest total claim amounts respectively. However both maintain average claim amounts of **$231** and $244, remaining close to the portfolio average, suggesting their high signup volume does not come with disproportionate claim risk.
+
+- Tailored Health Plans presents the most balanced profile across all three sections strong signup conversion, below average cost per signup, and a controlled average claim amount of **$209**, the lowest among the top performers. This consistency across marketing, signup, and claim metrics makes it the most defensible investment recommendation in the entire portfolio.
+
+- Golden Years Security continued its pattern of underperformance generating the lowest total claim amount at **$16,088**, confirming that its high cost per signup and weak engagement never translated into meaningful customer acquisition or business volume at any stage of the funnel.
+
 
 ## Recommendations
 
