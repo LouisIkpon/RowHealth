@@ -36,7 +36,7 @@ To evaluate campaign performance, the insights focused on the following key metr
 - **Cost per Signup**: The average dollars spent in order to acquire a signup from each campaign.
 
 
-## Marketing Insights
+## Overall Performance Summary
 
 - Row Health ran 11 campaigns from 2019–2023 generating **9 million** impressions at an average **CTR of 9.39%** and **CPC of $0.07**, suggesting campaigns were cost efficient and reasonably engaging. 
 
