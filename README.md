@@ -101,7 +101,10 @@ Address Declining Signups: Signups have fallen since 2020. Focus investment on p
 
 ## Dashboard
 
-The dashboard can be found in Tableau Public here. This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/louis.ikponmwosa/viz/Row_health_dashboard/Dashboard3). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
+
+<img width="1461" height="1866" alt="Dashboard 3" src="https://github.com/user-attachments/assets/209b43db-6aee-4638-87bd-8725fe42cf12" />
+
 
 ## Presentation Sample
 
