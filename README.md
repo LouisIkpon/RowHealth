@@ -79,13 +79,13 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 ## Risk Campaign
 
-**Key Insight:** Compare Health Coverage is Row Health's most deceptive campaign moderate marketing and signup metrics mask a significant profitability concern, with the highest average claim amount in the portfolio suggesting it attracts high utilization customers that may cost more than they generate in value.
+**Key Insight:** Compare Health Coverage appears average on the surface, but drives the highest claim costs making it a potential profitability risk.
 
-- Compare Health Coverage showed reasonable performance on the surface **660K** impressions, a signup rate of **0.42%**, and a cost per signup of **$3.60** close to the portfolio average, suggesting moderate reach and acceptable conversion efficiency.
+- The campaign delivered moderate results, with **660K** impressions, a signup rate of **0.42%**, and a cost per signup of **$3.60** all close to portfolio averages.
 
-- However claim data reveals a more concerning picture. Compare Health Coverage carries the highest average claim amount at **$410**, **54%** above the portfolio average of **$267** despite only average signup conversion. This suggests the campaign is disproportionately attracting high utilization customers whose downstream costs may outweigh the value of their signups.
+- HHowever, the issue appears after signup. It has the highest average claim amount at **$410**, **54%** above average suggesting it attracts higher-cost customers. While conversion looks acceptable, the downstream cost may outweigh the value of those signups
 
-- Row Health should consider restructuring Compare Health Coverage toward a more targeted audience profile that maintains its reasonable signup conversion while reducing claim exposure or evaluate whether the campaign's current profitability justifies continued investment at current budget levels.
+- Refine targeting to attract lower-risk customers or reassess whether the campaign is profitable at its current spend.
 
 
 ## Recommendations
