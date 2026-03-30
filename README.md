@@ -67,19 +67,15 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 ## Claim Insights
 
-**Key Insight:** While high performing signup campaigns naturally drove the highest claim volumes, Compare Health Coverage presents the most significant profitability concern, generating the highest total and average claim amounts despite only average signup conversion, suggesting it attracts high utilization customers that may cost Row Health more than they generate in value.
+**Key Insight:** Golden Years Security and the bottom 6 campaigns consistently underdelivered across every stage of the funnel, consuming budget without producing meaningful customer acquisition or business value.
 
-- From 2019–2023 Row Health processed **$13.4 million** in total claims at an average claim amount of **$267**. Claim volume was heavily concentrated among the top 4 campaigns, Compare Health Coverage, Health For All, #HealthyLiving, and #CoverageMatters which together accounted for the majority of total claims, directly mirroring their dominance in signup volume.
+- Golden Years Security was the worst performer across marketing, signup, and claim metrics. With the highest CPC at **$0.68** nearly 9x the average combined with low impressions and below average CTR, the campaign failed to generate meaningful engagement.
 
-- Claim amounts were relatively flat from 2019 through early 2021, then rose sharply beginning in Q2 2021 among the top performers, likely reflecting delayed post-pandemic healthcare utilization as people resumed elective and routine care. Since late 2023 claim amounts have steadily declined, suggesting utilization is normalizing.
+- This weakness carried through to signups, with the lowest signup count in the portfolio and a cost per signup of **$176.70**, nearly 7x the average. The lowest total claim amount of **$16,088** confirms that high costs and weak engagement never translated into meaningful customer acquisition at any stage of the funnel.
 
-- Compare Health Coverage stands out as the most concerning campaign from a profitability standpoint it carries the highest average claim amount at **$410**, which is 54% above the portfolio average of **$267**, despite only average signup conversion. This suggests the campaign may be disproportionately attracting high utilization customers.
+- Beyond Golden Years Security, 6 of 11 campaigns collectively failed to generate meaningful signup volume — combining for fewer than **700** total signups at a median cost per signup of **$34.70**, nearly 9x the average. These campaigns are consuming budget without producing customers.
 
-- Health For All and #HealthyLiving — the two campaigns recommended for increased investment — carry the second and third highest total claim amounts respectively. However both maintain average claim amounts of **$231** and $244, remaining close to the portfolio average, suggesting their high signup volume does not come with disproportionate claim risk.
-
-- Tailored Health Plans presents the most balanced profile across all three sections strong signup conversion, below average cost per signup, and a controlled average claim amount of **$209**, the lowest among the top performers. This consistency across marketing, signup, and claim metrics makes it the most defensible investment recommendation in the entire portfolio.
-
-- Golden Years Security continued its pattern of underperformance generating the lowest total claim amount at **$16,088**, confirming that its high cost per signup and weak engagement never translated into meaningful customer acquisition or business volume at any stage of the funnel.
+- Row Health should prioritize reallocating budget away from these underperforming campaigns toward Tailored Health Plans, Health For All, and #HealthyLiving — the three campaigns that have demonstrated consistent performance across reach, conversion, and claim efficiency.
 
 
 ## Recommendations
