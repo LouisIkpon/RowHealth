@@ -90,30 +90,14 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 ## Recommendations
 
-Key Insight: Row Health's campaign portfolio is highly uneven — three campaigns consistently justify increased investment, one presents a hidden profitability risk, and the remaining seven are consuming budget without producing meaningful business value.
+- **Invest in Top Performers:** Increase budget for Tailored Health Plans, Health For All, and #HealthyLiving — these campaigns consistently drive the strongest results across reach, conversion, and efficiency.
 
-Invest and Expand
+- **Expand Health For All:** This campaign has the highest conversion and lowest cost per signup. Growth is limited by reach, not performance — scaling it can unlock significant gains.
 
-- Tailored Health Plans is the most defensible investment in the portfolio. It is the only campaign that delivered controlled performance across all three metric categories — highest impressions at 1.39M, below average cost per signup at $4.70, and the lowest average claim amount of $209 among top performers. More budget here carries the lowest risk and highest likelihood of predictable returns.
-Health For All represents the single biggest untapped opportunity in the portfolio. It converted the lowest impressions into the highest signup count at 3,545 and a signup rate 12x the average at just $1.20 per signup. The constraint has never been conversion quality — it has been reach. Expanding its audience could produce outsized signup growth at a proven low cost.
-#HealthyLiving is the most scalable campaign in the portfolio. Strong reach at 1.37M impressions, consistent conversion, and average claim amounts confirm it performs reliably at every stage of the funnel without introducing claim risk as volume grows.
+- **Optimize Compare Health Coverage:** While conversion looks solid, high claim costs ($410 avg) suggest profitability risk. Refine targeting or reassess spend before scaling.
 
-
-Monitor Closely
-
-- Compare Health Coverage is the portfolio's most deceptive campaign. Surface metrics — 660K impressions, a 0.42% signup rate, and $3.60 cost per signup — suggest reasonable performance. However its average claim amount of $410 sits 54% above the portfolio average, indicating it may be attracting high utilization customers whose downstream costs outweigh the value of their signups. Row Health should audit this campaign's customer profile and restructure targeting before committing additional budget.
-
-
-Reallocate Away From
-
-- Golden Years Security is the clearest reallocation priority. It is the only campaign that failed comprehensively across every metric — a CPC of $0.68 nearly 9x the average, the lowest signup count at 23, a cost per signup of $176.70 nearly 7x the average, and the lowest total claim volume at $16,088. No metric at any stage of the funnel justifies continued investment.
-The bottom six campaigns collectively generated fewer than 700 total signups at a median cost per signup of $34.70. Reallocating even a portion of their combined budget toward the three proven top performers would materially improve portfolio wide conversion efficiency.
-
-
-Address the Decline
-
-- Signups peaked in early 2020 likely driven by pandemic related demand and have declined steadily ever since. Without intervention Row Health risks further erosion of its customer acquisition pipeline. Concentrating investment in Health For All, Tailored Health Plans, and #HealthyLiving — the campaigns with proven conversion efficiency — represents the most actionable path to reversing this trend.
-
+- **Cut Underperformers:** Reallocate budget from Golden Years Security and six low-performing campaigns, which generate minimal signups at high cost.
+Address Declining Signups: Signups have fallen since 2020. Focus investment on proven campaigns to stabilize and grow customer acquisition.
 
 ## Dashboard
 
