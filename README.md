@@ -90,9 +90,9 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 ## Recommendations
 
-- **Invest in Top Performers:** Increase budget for Tailored Health Plans, Health For All, and #HealthyLiving — these campaigns consistently drive the strongest results across reach, conversion, and efficiency.
+- **Invest in Top Performers:** Increase budget for Tailored Health Plans, Health For All, and #HealthyLiving these campaigns consistently drive the strongest results across reach, conversion, and efficiency.
 
-- **Expand Health For All:** This campaign has the highest conversion and lowest cost per signup. Growth is limited by reach, not performance — scaling it can unlock significant gains.
+- **Expand Health For All:** This campaign has the highest conversion and lowest cost per signup. Growth is limited by reach, not performance scaling it can unlock significant gains.
 
 - **Optimize Compare Health Coverage:** While conversion looks solid, high claim costs ($410 avg) suggest profitability risk. Refine targeting or reassess spend before scaling.
 
