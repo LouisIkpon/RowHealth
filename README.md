@@ -67,16 +67,15 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 ## Under Performers
 
-**Key Insight:** Golden Years Security and the bottom 6 campaigns consistently underdelivered across every stage of the funnel, consuming budget without producing meaningful customer acquisition or business value.
+**Key Insight:** Golden Years Security and six other campaigns consistently underperformed across every stage, using budget without generating meaningful customer value.
 
-- Golden Years Security was the worst performer across marketing, signup, and claim metrics. With the highest CPC at **$0.68** nearly 9x the average combined with low impressions and below average CTR, the campaign failed to generate meaningful engagement.
+- Golden Years Security was the weakest overall. It had the highest CPC at **$0.68** nearly 9x the average combined with low impressions and below average CTR, limiting its reach from the start.
 
-- This weakness carried through to signups, with the lowest signup count in the portfolio and a cost per signup of **$176.70**, nearly 7x the average. The lowest total claim amount of **$16,088** confirms that high costs and weak engagement never translated into meaningful customer acquisition at any stage of the funnel.
+- This carried through to conversions, with the lowest signup volume and an extremely high cost per signup **$176.70**, nearly 7x the average. The lowest total claim amount of **$16,088** confirms that high costs and weak engagement never translated into meaningful customer acquisition at any stage of the funnel.
 
-- Beyond Golden Years Security, 6 of 11 campaigns collectively failed to generate meaningful signup volume combining for fewer than **700** total signups at a median cost per signup of **$34.70**, nearly 9x the average. These campaigns are consuming budget without producing customers.
+- Beyond this, six campaigns collectively produced fewer than **700** total signups at a median cost per signup of **$34.70**, nearly 9x the average. In short, they are spending money without driving customers.
 
-- Row Health should prioritize reallocating budget away from these underperforming campaigns toward Tailored Health Plans, Health For All, and #HealthyLiving the three campaigns that have demonstrated consistent performance across reach, conversion, and claim efficiency.
-
+- Shift budget away from these underperforming campaigns and reinvest in Tailored Health Plans, Health For All, and #HealthyLiving the campaigns that consistently deliver results across reach, conversion, and efficiency.
 
 ## Risk Campaign
 
