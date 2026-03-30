@@ -65,7 +65,7 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 
 
-## Claim Insights
+## Under Performers
 
 **Key Insight:** Golden Years Security and the bottom 6 campaigns consistently underdelivered across every stage of the funnel, consuming budget without producing meaningful customer acquisition or business value.
 
@@ -73,9 +73,9 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 - This weakness carried through to signups, with the lowest signup count in the portfolio and a cost per signup of **$176.70**, nearly 7x the average. The lowest total claim amount of **$16,088** confirms that high costs and weak engagement never translated into meaningful customer acquisition at any stage of the funnel.
 
-- Beyond Golden Years Security, 6 of 11 campaigns collectively failed to generate meaningful signup volume — combining for fewer than **700** total signups at a median cost per signup of **$34.70**, nearly 9x the average. These campaigns are consuming budget without producing customers.
+- Beyond Golden Years Security, 6 of 11 campaigns collectively failed to generate meaningful signup volume combining for fewer than **700** total signups at a median cost per signup of **$34.70**, nearly 9x the average. These campaigns are consuming budget without producing customers.
 
-- Row Health should prioritize reallocating budget away from these underperforming campaigns toward Tailored Health Plans, Health For All, and #HealthyLiving — the three campaigns that have demonstrated consistent performance across reach, conversion, and claim efficiency.
+- Row Health should prioritize reallocating budget away from these underperforming campaigns toward Tailored Health Plans, Health For All, and #HealthyLiving the three campaigns that have demonstrated consistent performance across reach, conversion, and claim efficiency.
 
 
 ## Recommendations
