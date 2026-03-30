@@ -50,17 +50,17 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 ## High Performers
 
-**Key Insight:** Tailored Health Plans, Health For All, and #HealthyLiving consistently outperformed the portfolio across marketing, signup, and claim metrics, representing the strongest and most defensible cases for increased investment.
+**Key Insight:** Tailored Health Plans, Health For All, and #HealthyLiving consistently outperformed the rest across marketing, signups, and claims, making them the strongest candidates for increased investment.
 
-- Tailored Health Plans demonstrated the most balanced profile across all three sections with consistency across marketing, signup, and claim metrics making it the most defensible investment recommendation. With the highest reach at **1.39M impressions**, average CTR and signup conversion, a below average cost per signup of **$4.70**, and the lowest average claim amount of **$209** among the top performers, this campaign delivered consistent and controlled performance at every stage of the funnel. 
+- Tailored Health Plans showed the most balanced performance end-to-end. It delivered the highest reach at **1.39M impressions**, solid engagement and conversion, a below-average cost per signup **$4.70**, and the lowest average claim amount of **$209** among the top performers. Overall, it was the most stable and reliable performer.
   
-- Health For All achieved the highest CTR at **25%** despite the lowest impressions, then converted that engagement into the highest signup count at **3,545** and a signup rate of **2.08%** 12x the overall average at just **$1.20** per signup, the second most cost efficient campaign in the portfolio.
+- Health For All stood out for efficiency. Despite lower reach, it had the highest engagement with a CTR of **25%** despite the lowest impressions, and converted that into the most signups **3,545** and a signup rate of **2.08%** 12x the overall average at just **$1.20** per signup, the second most cost efficient campaign in the portfolio.
 
-- #HealthyLiving combined strong reach at **1.37M** impressions with **3,727** total signups, a **0.27%** signup rate, and $1.80 cost per signup, confirming consistent performance across both reach and conversion.
+- #HealthyLiving combined strong reach at **1.37M** impressions with high signup volume **3,727**, a **0.27%** signup rate, and efficient costs $1.80 cost per signup, confirming consistent performance across both reach and conversion.
 
 - Health For All and #HealthyLiving carry the second and third highest total claim amounts respectively, however their average claim amounts of **$231** and **$244** remain close to the portfolio average, suggesting their high signup volume does not come with disproportionate claim risk.
 
-- Together these three campaigns represent the strongest cases for continued and expanded investment.
+- These three campaigns drive the majority of value and offer the clearest opportunity for continued and expanded investment.
 
 
 
