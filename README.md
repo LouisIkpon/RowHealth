@@ -86,7 +86,7 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 - However claim data reveals a more concerning picture. Compare Health Coverage carries the highest average claim amount at **$410**, **54%** above the portfolio average of **$267** despite only average signup conversion. This suggests the campaign is disproportionately attracting high utilization customers whose downstream costs may outweigh the value of their signups.
 
-Row Health should consider restructuring Compare Health Coverage toward a more targeted audience profile that maintains its reasonable signup conversion while reducing claim exposure or evaluate whether the campaign's current profitability justifies continued investment at current budget levels.
+- Row Health should consider restructuring Compare Health Coverage toward a more targeted audience profile that maintains its reasonable signup conversion while reducing claim exposure or evaluate whether the campaign's current profitability justifies continued investment at current budget levels.
 
 
 ## Recommendations
