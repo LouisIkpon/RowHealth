@@ -1,4 +1,4 @@
-# Row Health — Marketing Campaign Performance Analysis
+# Row Health Marketing Campaign Performance Analysis
 
 
 > Healthcare marketing campaign analysis using Excel and Tableau, evaluating signup rates, CTR, and cost efficiency across 11 campaigns to surface budget reallocation recommendations.
