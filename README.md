@@ -1,7 +1,7 @@
-# RowHealth Performance Report
+# Row Health — Marketing Campaign Performance Analysis
 
 
-> Analyzing 4 years of Row Health medical insurance data to diagnose and surface actionable growth levers using a dynamic visual deliverable.
+> Healthcare marketing campaign analysis using Excel and Tableau, evaluating signup rates, CTR, and cost efficiency across 11 campaigns to surface budget reallocation recommendations.
 
 
 
