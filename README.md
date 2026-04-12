@@ -83,7 +83,9 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 - The campaign delivered moderate results, with **660K** impressions, a signup rate of **0.42%**, and a cost per signup of **$3.60** all close to portfolio averages.
 
-- HHowever, the issue appears after signup. It has the highest average claim amount at **$410**, **54%** above average suggesting it attracts higher-cost customers. While conversion looks acceptable, the downstream cost may outweigh the value of those signups
+- However, the issue appears after signup. It has the highest average claim amount at **$410**, **54%** above average suggesting it attracts higher-cost customers. While conversion looks acceptable, the downstream cost may outweigh the value of those signups.
+
+- Within Compare Health Coverage, Customer Testimonial campaign types drove the highest average claim amount at $499 nearly 2x the portfolio average suggesting the risk is concentrated in a specific campaign type, not the category as a whole.
 
 - Refine targeting to attract lower-risk customers or reassess whether the campaign is profitable at its current spend.
 
