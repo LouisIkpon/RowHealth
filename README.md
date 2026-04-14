@@ -110,7 +110,7 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 
 ## Presentation Sample
 
-The presentation created for the marketing team walks through the insights and recommendations above and can be found [here](https://docs.google.com/presentation/d/18EiCRds65iXUaX3kMb7JeYiMZ19gaBYmCU9kiOuspf4/edit?usp=sharing). Some extracts are presented below for easy viewing
+The full presentation can be found [here](https://docs.google.com/presentation/d/18EiCRds65iXUaX3kMb7JeYiMZ19gaBYmCU9kiOuspf4/edit?usp=sharing). Selected slides are shown below. 
 
 <img width="950" height="530" alt="image" src="https://github.com/user-attachments/assets/4cd4fb8f-7303-498c-b3b0-bb24c85d9cad" />
 
