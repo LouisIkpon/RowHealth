@@ -1,8 +1,10 @@
 # Row Health Marketing Campaign Performance Analysis
 
 
-> Healthcare marketing campaign analysis using Excel and Tableau, evaluating signup rates, CTR, and cost efficiency across 11 campaigns to surface budget reallocation recommendations.
+> Healthcare marketing campaign analysis using Excel and Tableau, evaluating signup rates, CTR, and cost efficiency across 12 campaign categories to surface budget reallocation recommendations.
+ 
 
+**Tools:** Excel, Tableau, Google Slides
 
 
 ## Company Background 
@@ -38,7 +40,7 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 ## Overall Performance Summary
 
-- Row Health ran 11 campaigns from 2019–2023 generating **9 million** impressions at an average **CTR of 9.39%** and **CPC of $0.07**, suggesting campaigns were cost efficient and reasonably engaging. 
+- Row Health ran 12 campaign categories (57 total campaigns) from 2019–2023 generating **9 million** impressions at an average **CTR of 9.39%** and **CPC of $0.07**, suggesting campaigns were cost efficient and reasonably engaging. 
 
 - However despite this efficiency, the overall **signup rate of 0.18%** and average **cost per signup of $3.70** indicates most campaigns struggled to convert reach into actual customers. 
 
@@ -99,7 +101,10 @@ To evaluate campaign performance, the insights focused on the following key metr
 - **Optimize Compare Health Coverage:** While conversion looks solid, high claim costs ($410 avg) suggest profitability risk. Refine targeting or reassess spend before scaling.
 
 - **Cut Underperformers:** Reallocate budget from Golden Years Security and six low-performing campaigns, which generate minimal signups at high cost.
-Address Declining Signups: Signups have fallen since 2020. Focus investment on proven campaigns to stabilize and grow customer acquisition.
+
+- **Address Declining Signups:** Signups have fallen since 2020. Focus investment on proven campaigns to stabilize and grow customer acquisition.
+
+
 
 ## Dashboard
 
