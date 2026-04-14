@@ -113,12 +113,8 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 The full presentation can be found [here](https://docs.google.com/presentation/d/18EiCRds65iXUaX3kMb7JeYiMZ19gaBYmCU9kiOuspf4/edit?usp=sharing). Selected slides are shown below. 
 
 <img width="1461" alt="image" src="https://github.com/user-attachments/assets/4cd4fb8f-7303-498c-b3b0-bb24c85d9cad" />
-
 <br><br>
-
 <img width="1461" alt="image" src="https://github.com/user-attachments/assets/128617e6-eaf7-4d5b-9531-8091b708e5c7" />
-
 <br><br>
-
-<img width="1461" alt="image" src="https://github.com/user-attachments/assets/9aefca11-8880-40c9-a98c-1761d83d6b23" />
+<img width="1461" alt="image" src="https://github.com/user-attachments/assets/818131ff-c5e2-4ec8-99c9-fabf32e276bc" />
 
